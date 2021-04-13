@@ -1,2 +1,2 @@
-# wind_models_details
-csv on details and poewr curves for wind turbine models
+# Thesis data and code
+All of the data and code used for the thesis is available here
