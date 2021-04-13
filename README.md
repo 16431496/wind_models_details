@@ -1,2 +1,2 @@
 # wind_models_details
-csv on details for wind turbine models
+csv on details and poewr curves for wind turbine models
