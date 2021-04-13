@@ -1,2 +1,2 @@
-# Thesis data and code
-All of the data and code used for the thesis is available here
+# wind_models_details
+data on the wind turbine models such as general details and power curves
